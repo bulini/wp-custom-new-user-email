@@ -31,7 +31,6 @@ function custom_user_email_textdomain() {
  * redefine new user notification function
  *
  * emails new users their login info
- * api sendgrid: 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
  *
  * @author	Giuseppe Surace <info@giuseppesurace.com>
  * @param 	integer $user_id user id

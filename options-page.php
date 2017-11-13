@@ -5,7 +5,7 @@ add_action('admin_menu', 'custom_user_email_menu');
 function custom_user_email_menu() {
 
 	//create new top-level menu
-	add_menu_page('User email Settings', 'User email Settings', 'administrator', __FILE__, 'custom_user_email_settings_page' , plugins_url('/images/icon.png', __FILE__) );
+	add_menu_page('User email Settings', 'New User email', 'administrator', __FILE__, 'custom_user_email_settings_page' , plugins_url('/mail.png', __FILE__) );
 
 	//call register settings function
 	add_action( 'admin_init', 'custom_user_email_settings' );

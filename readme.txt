@@ -1,14 +1,14 @@
-=== Custom User Email ===
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: http://example.com/
-Tags: comments, spam
+=== WP Custom User Email ===
+Contributors: bulini
+Donate link: https://www.giuseppesurace.com/
+Tags: notification, user, email, welcome
 Requires at least: 4.4
 Tested up to: 4.8.3
 Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Quick and easy customization for Wordpress Welcome new user email. 
 
 == Description ==
 
