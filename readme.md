@@ -1,22 +1,13 @@
-=== WP Custom User Email ===
-Contributors: bulini
-Donate link: https://www.giuseppesurace.com/
-Tags: notification, user, email, welcome
-Requires at least: 4.4
-Tested up to: 4.8.3
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
+# WP Custom User Email
 Quick and easy customization for Wordpress Welcome new user email.
 
-== Description ==
+## Description
 
 This plugin allows you to customize the welcome registration email with a custom message.
 
 You can change and customize your subject, your welcome email text using some placeholedrs eg *[[site_url]] [[username]] [[first_name]] [[last_name]]*
 
-== Installation ==
+## Getting Started
 
 This section describes how to install the plugin and get it working.
 
