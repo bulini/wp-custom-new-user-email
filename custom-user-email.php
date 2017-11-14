@@ -2,12 +2,12 @@
 /**
 * Plugin Name:     New user custom email
 * Plugin URI:      https://www.giuseppesurace.com/
-* Description:     Quickly edit your new user welcome notification. No configuration needed, just change the subject the email text using all useful placeholedrs.
+* Description:     Quickly edit your new user welcome notification. No configuration needed, just change the subject the email text using all useful placeholders.
 * Author:          Giuseppe
 * Author URI:      https://www.giuseppesurace.com/
 * Text Domain:     custom-user-email
 * Domain Path:     /languages
-* Version:         0.1.0
+* Version:         1.0.0
 *
 * @package         Custom_User_Email
 */
