@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: New user custom email\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-13 23:55+0000\n"
+"PO-Revision-Date: 2017-11-13 23:57+0000\n"
+"Last-Translator: admin <pinobulini@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it-IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: options-page.php:25
+msgid "Placeholders"
+msgstr ""
+
+#: options-page.php:26
+msgid ""
+"You can use these placeholder to customize each message. (Ex Dear "
+"[[first_name]])."
+msgstr ""
+"Puoi utilizzare i seguenti placeholder (segnaposto) per personalizzare le "
+"email di benvenuto. (es Ciao [[first_name]] )"
+
+#: options-page.php:41
+msgid "Your welcome email subject for new user notification"
+msgstr "Oggetto della mail di benvenuto"
+
+#. Name of the plugin
+msgid "New user custom email"
+msgstr "Email di Benvenuto personalizzata"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.giuseppesurace.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Giuseppe"
+msgstr ""
+
+#: custom-user-email.php:70
+msgid "A new user has been created"
+msgstr "Un nuovo utente è stato creato"
+
+#: custom-user-email.php:72
+msgid "New user created"
+msgstr "Nuovo utente creato"
+
+#: options-page.php:37
+msgid "Welcome email Subject"
+msgstr "Oggetto Email"
+
+#: options-page.php:47
+msgid "Welcome email text"
+msgstr "Testo email di benvenuto"
+
+#. Description of the plugin
+msgid ""
+"Quickly edit your new user welcome notification. No configuration needed, "
+"just change the subject the email text using all useful placeholedrs."
+msgstr ""
+"Personalizza velocemente l'email di notifica per i nuovi utenti. Nessuna "
+"configurazione necessaria, basta cambiare oggetto, testo e footer email "
+"utilizzando gli utilissimi placeholder."
