@@ -21,7 +21,7 @@ You can change and customize your subject, your welcome email text using some pl
 This section describes how to install the plugin and get it working.
 
 1. Upload the plugin folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Customize your welcome email
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Customize your welcome email
 
 Here's a link to [WordPress](https://www.giuseppesurace.com "My blog") where you can find more informations about.
