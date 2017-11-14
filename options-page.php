@@ -22,9 +22,9 @@ function custom_user_email_settings_page() {
 		<h1><?php echo PLUGIN_NAME; ?></h1>
 
 		<div class="wp_new_user_panel">
-			<b><?php _e('Placeholders', 'custom-user-email'); ?></b>
-			<p><?php _e('You can use these placeholder to customize each message. (Ex Dear [[first_name]]).', 'custom-user-email'); ?></p>
-			<b>[[site_url]] [[username]] [[first_name]] [[last_name]]</b>
+			<b><?php _e('Shortcodes', 'custom-user-email'); ?></b>
+			<p><?php _e('You can use these shortcodes to customize each message. (Ex Dear [[first_name]]).', 'custom-user-email'); ?></p>
+			<b>[[site_url]] [[password_url]] [[username]] [[first_name]] [[last_name]]</b>
 		</div>
 
 		<form method="post" action="options.php">

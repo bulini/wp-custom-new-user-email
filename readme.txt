@@ -11,10 +11,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Quick and easy customization for Wordpress Welcome new user email.
 
 == Description ==
-
 This plugin allows you to customize the welcome registration email with a custom message.
-
-You can change and customize your subject, your welcome email text using some placeholedrs eg *[[site_url]] [[username]] [[first_name]] [[last_name]]*
+Quickly edit your new user welcome notification. No configuration needed,
+just change the subject of the email text using all available shortcodes.
+Send to new users their login info and the activation link to set the password.
+You can change and customize your subject and your welcome email text using these shortcodes:
+*[[site_url]] [[username]] [[first_name]] [[last_name]] [[password_url]]*
 
 == Installation ==
 
